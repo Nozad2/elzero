@@ -2,5 +2,5 @@
 
 ## Notes
 
-#### **1- Follow The Rules**
+#### **1- __Follow The Rules__
 #### 1- Learn Github
